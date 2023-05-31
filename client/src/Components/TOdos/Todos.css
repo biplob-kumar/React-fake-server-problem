@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all_todo_box{
+    height: 80vh;
+    background-color:#ccc;
+}
+.todoCard{
+    display: flex;
+    padding: 10px ;
+    min-height:100px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid whitesmoke;
+    border: 1px solid #bab5b5;
+}
+.todoCard button{
+    padding: 10px 10px ;
+    background-color: orange;
+    border: none;
+    margin: 1rem;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.pagination{
+    text-align: center;
+    margin: 1rem;
+}
+.pagination button{
+    padding: 10px 20px ;
+    background-color: orange;
+    border: none;
+    margin: 1rem;
+    color: whitesmoke;
+    font-weight: bold;
+}

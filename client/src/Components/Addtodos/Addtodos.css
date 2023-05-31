@@ -1,0 +1,18 @@
+
+form{
+    padding: 10px ;
+    background-color: coral;
+text-align: center;
+}
+form input{
+    padding: 10px 20px ;
+}
+
+form button{
+    padding: 10px 10px ;
+    background-color: orange;
+    border: none;
+    margin: 1rem;
+    color: whitesmoke;
+    font-weight: bold;
+}
